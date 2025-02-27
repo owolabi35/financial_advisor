@@ -1,0 +1,6 @@
+agno 
+autogen
+groq
+yfinance
+python-dotenv
+duckduckgo-search
